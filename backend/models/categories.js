@@ -1,0 +1,5 @@
+[
+    'Electronics',
+    'Clothing',
+    'Books',
+]
